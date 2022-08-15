@@ -1,7 +1,10 @@
 # 🙋‍♂️ About Me
 I'm Rico, a 19-year-old software engineering student at the Bit Academy. 
+
 Whilst being a software engineering student, I am also involved in a number of projects, all of which involve freelance web development.
+
 I love seeking different ways to refine existing skills and further my knowledge. 
+
 For as long as I can remember, I have been obsessed with all things tech, and I am looking forward to getting deep into software development for both the problem-solving and creative design aspects. 
 Willing to assist organizations in building the best technical solutions in today's competitive market.
 
