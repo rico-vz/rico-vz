@@ -56,4 +56,3 @@ For as long as I can remember, I have been obsessed with all things tech, and I 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
