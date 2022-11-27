@@ -45,33 +45,21 @@ For as long as I can remember, I have been obsessed with all things tech, and I 
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
 
 
-
-</td><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rico-vz&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
+
 
 <br/>  
 
   
 
 <br/>  
+
 ![Profile views counter](https://komarev.com/ghpvc/?username=rico-vz&&style=flat-square)  
   
 
 <br/>  
-
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>
 <br />
