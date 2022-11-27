@@ -60,7 +60,6 @@ For as long as I can remember, I have been obsessed with all things tech, and I 
   
 
 <br/>  
-<div align="center">  
 ![Profile views counter](https://komarev.com/ghpvc/?username=rico-vz&&style=flat-square)  
   
 
@@ -76,4 +75,3 @@ For as long as I can remember, I have been obsessed with all things tech, and I 
 
 </td></tr></table>
 <br />
-</div>
