@@ -8,7 +8,7 @@
   </div>
 
 
-<div align="center">
+
 ### Glad to see you here!  
 
 I'm Rico, a 19-year-old full-stack developer student at the Bit Academy.
@@ -19,7 +19,7 @@ I love seeking different ways to refine existing skills and further my knowledge
 
 For as long as I can remember, I have been obsessed with all things tech, and I am looking forward to getting deep into software development for both the problem-solving and creative design aspects. Willing to assist organizations in building the best technical solutions in today's competitive market.
 
-I'm currently loving <a href="https://laravel.com/">Laravel 📦❤️</a></div>  
+I'm currently loving <a href="https://laravel.com/">Laravel 📦❤️</a>
   
 
 <br/>  
