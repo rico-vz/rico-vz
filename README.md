@@ -5,11 +5,12 @@
 [![Dribbble](https://img.shields.io/badge/-Dribbble-%23EA4C89?logo=dribbble&logoColor=white)](https://dribbble.com/ricovz/) 
 [![Website](https://img.shields.io/badge/Website-%230E83C8?logo=Firefox%20Browser&logoColor=white)](https://ricovz.me) 
 [![Blog](https://img.shields.io/badge/Blog-%2315171A?logo=Ghost&logoColor=white)](https://blog.ricovz.me)   
-  
+  </div>
 
 
 
 ### Glad to see you here!  
+<div align="center">
 I'm Rico, a 19-year-old full-stack developer student at the Bit Academy.
 
 Whilst being a software engineering student, I am also involved in a number of projects, all of which involve freelance web development.
@@ -18,8 +19,7 @@ I love seeking different ways to refine existing skills and further my knowledge
 
 For as long as I can remember, I have been obsessed with all things tech, and I am looking forward to getting deep into software development for both the problem-solving and creative design aspects. Willing to assist organizations in building the best technical solutions in today's competitive market.
 
-I'm currently loving <a href="https://laravel.com/">Laravel 📦❤️</a>
-</div>  
+I'm currently loving <a href="https://laravel.com/">Laravel 📦❤️</a></div>  
   
 
 <br/>  
