@@ -8,9 +8,9 @@
   </div>
 
 
-
-### Glad to see you here!  
 <div align="center">
+### Glad to see you here!  
+
 I'm Rico, a 19-year-old full-stack developer student at the Bit Academy.
 
 Whilst being a software engineering student, I am also involved in a number of projects, all of which involve freelance web development.
