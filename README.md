@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ricovz) 
 [![Dribbble](https://img.shields.io/badge/-Dribbble-%23EA4C89?logo=dribbble&logoColor=white)](https://dribbble.com/ricovz/) 
 [![Website](https://img.shields.io/badge/Website-%230E83C8?logo=Firefox%20Browser&logoColor=white)](https://ricovz.me) 
-[![Blog](https://img.shields.io/badge/Blog-%2315171A?logo=Ghost&logoColor=white)](https://blog.ricovz.me)   
+[![Blog](https://img.shields.io/badge/Blog-%2315171A?logo=Ghost&logoColor=white)](https://dev.to/ricovz)   
   </div>
 
 
