@@ -50,7 +50,7 @@ I'm currently loving <a href="https://laravel.com/">Laravel 📦❤️</a>
 <br/>  
 
 <div align="center">
-<img src="https://github-readme-stats-neon-phi.vercel.app/?username=rico-vz&&style=flat-square" align="center" />
+<img src="https://github-readme-stats-neon-phi.vercel.app/api?username=rico-vz&&style=flat-square" align="center" />
 </div>  
 
 <br />
