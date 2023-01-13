@@ -45,13 +45,14 @@ I'm currently loving <a href="https://laravel.com/">Laravel 📦❤️</a>
 
 
 ## Github Stats  
-<div align="center"><img src="github-readme-stats-neon-phi.vercel.app/api/top-langs?username=rico-vz&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats-neon-phi.vercel.app/api/top-langs/?username=rico-vz&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
 <div align="center">
-<img src="https://github-readme-stats-neon-phi.vercel.app/api?username=rico-vz&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=rico-vz&&style=flat-square" align="center" />
 </div>  
+
 
 <br />
 
