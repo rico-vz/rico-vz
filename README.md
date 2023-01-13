@@ -54,5 +54,7 @@ I'm currently loving <a href="https://laravel.com/">Laravel 📦❤️</a>
 </div>  
 
 ----
+<div align="center">  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+  </div>
 
