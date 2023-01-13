@@ -53,7 +53,6 @@ I'm currently loving <a href="https://laravel.com/">Laravel 📦❤️</a>
 <img src="https://komarev.com/ghpvc/?username=rico-vz&&style=flat-square" align="center" />
 </div>  
 
-
-<br />
-
 ----
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
