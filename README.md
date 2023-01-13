@@ -45,7 +45,7 @@ I'm currently loving <a href="https://laravel.com/">Laravel 📦❤️</a>
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rico-vz&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="github-readme-stats-neon-phi.vercel.app/api/top-langs/?username=rico-vz&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
