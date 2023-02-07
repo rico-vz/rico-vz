@@ -5,10 +5,10 @@
 
 
 ### Glad to see you here!  
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"/>
 
 I'm Rico, a 19-year-old full-stack developer student at the Bit Academy.
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"/>
 Whilst being a software engineering student, I am also involved in a number of projects, which involve freelance web development.
 
 I love seeking different ways to refine existing skills and further my knowledge.
