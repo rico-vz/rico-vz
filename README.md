@@ -24,6 +24,7 @@ For as long as I can remember, I have been obsessed with all things tech, and I 
 
 ## 📈 Statistics
 [![](https://visitcount.itsvg.in/api?id=wqe&icon=7&color=12)](https://github.com/rico-vz)
+
 <img src="https://github-readme-stats-neon-phi.vercel.app/api/top-langs/?username=rico-vz&hide_border=true&layout=compact&theme=dark" align="center" />
 
 
