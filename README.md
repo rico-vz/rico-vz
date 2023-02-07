@@ -13,7 +13,7 @@ Whilst being a software engineering student, I am also involved in a number of p
 
 I love seeking different ways to refine existing skills and further my knowledge.
 
-For as long as I can remember, I have been obsessed with all things tech, and I am looking forward to getting deep into software development for both the problem-solving and creative design aspects. Willing to assist organizations in building the best technical solutions in today's competitive market.
+For as long as I can remember, I have been obsessed with all things tech, and I am looking forward to getting deep into software development for both the problem-solving  and creative design aspects. Willing to assist organizations in building the best technical solutions in today's competitive market.
 
 
 <br/>
