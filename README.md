@@ -26,6 +26,6 @@ problem-solving  and creative design aspects. Willing to assist organizations in
 ## 📈 Statistics
 [![](https://visitcount.itsvg.in/api?id=wqe&icon=7&color=12)](https://github.com/rico-vz)
 
-<img src="https://github-readme-stats-neon-phi.vercel.app/api/top-langs/?username=rico-vz&hide_border=true&layout=compact&theme=dark" align="center" />
+<img src="https://github-readme-stats-neon-phi.vercel.app/api/top-langs/?username=rico-vz&hide_border=true&count_private=true&layout=compact&theme=dark" align="center" />
 
 
