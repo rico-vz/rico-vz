@@ -7,7 +7,7 @@
 
 ### Glad to see you here!  
 
-I'm Rico, a 20-year-old full-stack developer student at the Bit Academy.
+I'm Rico, a 20-year-old full-stack developer and a student at the Bit Academy.
 
 Whilst being a software engineering student, I am also involved in a number of projects, which involve freelance web development.
 
