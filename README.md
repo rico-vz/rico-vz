@@ -18,7 +18,7 @@ For as long as I can remember, I have been obsessed with all things tech, and I 
             <br>
         </td>
         <td align="center" style="border:1px solid #3A424A">
-            <img src=" 	https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+            <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
             <br>
         </td>
         <td align="center" style="border:1px solid #3A424A">
