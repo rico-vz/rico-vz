@@ -1,25 +1,88 @@
+## About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="31" height="31" />
 
-## Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="31" height="31" />, I'm Rico.
-  
+My name is Rico van Zelst, a 20-year-old full-stack developer and a student at the Bit Academy.
 
-
-<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"/>
-
-### Glad to see you here!  
-
-I'm Rico, a 20-year-old full-stack developer and a student at the Bit Academy.
-
-Whilst being a software engineering student, I am also involved in a number of projects, which involve freelance web development.
+Whilst being a software development student, I am also involved in a number of projects, which involve freelance web development.
 
 I love seeking different ways to refine existing skills and further my knowledge.
 
-For as long as I can remember, I have been obsessed with all things tech, and I am looking forward to getting deep into software development for both the 
-problem-solving  and creative design aspects. Willing to assist organizations in building the best technical solutions in today's competitive market.
+For as long as I can remember, I have been obsessed with all things tech, and I am looking forward to getting deep into software development for both the problem-solving and creative design aspects. Willing to assist organizations in building the best technical solutions in today's competitive market.
 
 
-<br/>
+## Key Skills 🛠️
 
-![🛠️ Technologies and Tools](https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%9B%A0%EF%B8%8F+Technologies+and+Tools&align=center&fontFamily=monospace&lineCount=3&theme=github&gap=9&width=800&bg=%23FFFFFF&badge=%23EAEFFC&border=%23f9322c&titleColor=%23f9322c&line1=laravel%2CLaravel%2CFF2D20%3Blaravel%2CBlade%2Cff463d%3Bphp%2CPHP%2C777BB4%3Bjavascript%2CJavaScript%2CF7DF1E%3Bmysql%2CSQL%2C4479A1%3Bnodedotjs%2CNodeJS%2C339933%3Bhtml5%2CHTML%2CE34F26%3Bcss3%2CCSS%2C1572B6%3B&line2=linux%2CLinux%2CFCC624%3Bgit%2CGit%2CF05032%3Bcomposer%2CComposer%2C885630%3Bcloudflare%2CCloudflare%2CF38020%3Btermius%2CTerminal%2C000000%3Btailwindcss%2CTailwindCSS%2C06B6D4%3B&line3=visualstudiocode%2CVSCode%2C007ACC%3Bphpstorm%2CPHPStorm%2C000000%3Btrello%2CTrello%2C0052CC%3Badobephotoshop%2CPhotoshop%2C31A8FF%3Bbuymeacoffee%2CCoffee%2C5B4638%3B)
+<table>
+    <tr>
+        <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+            <br>
+        </td>
+        <td align="center" style="border:1px solid #3A424A">
+            <img src=" 	https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+            <br>
+        </td>
+        <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/Symfony-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white">
+            <br>
+        </td>
+        <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+            <br>
+        </td>
+    </tr>
+    <tr>
+         <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+            <br>
+        </td>
+        <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+            <br>
+        </td>
+        <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+            <br>
+        </td>
+        <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+            <br>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+            <br>
+        </td>
+        <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/Terminal/cli-000000?style=for-the-badge&logo=iterm2&logoColor=white">
+            <br>
+        </td>
+        <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff&style=for-the-badge">
+            <br>
+            </td>
+        <td align="center" style="border:1px solid #3A424A">
+            <img src="https://img.shields.io/badge/SCRUM-0082ff?logo=jirasoftware&logoColor=fff&style=for-the-badge">
+            <br>
+        </td>
+    </tr>
+    <tr>
+</table>
 
-[![](https://visitcount.itsvg.in/api?id=wqe&icon=7&color=4)](https://github.com/rico-vz)
+## Education 🎓
 
+- 🎓 Software Developer MBO 4, Bit Academy & Horizon College, August 2021 - Present
+
+## Certifications 🏆
+
+- 💻 Bit Academy - Fullstack Webdeveloper
+- 🧩 Bit Academy - Laravel Developer
+- 🔨 Bit Academy - Object Oriented Programming
+- 🧪 Bit Academy - E2E Testing
+- 🔄 Bit Academy - Scrum
+- 💡 IT Specialist - JavaScript
+
+## Github Stats 📈
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rico-vz&theme=nightfox&hide_border=true&border_radius=24&mode=weekly" alt="Prowise  GitHub streak" height="160px" />
+  
+[![](https://visitcount.itsvg.in/api?id=wqe&label=Profile%20Views&color=12&icon=1&pretty=false)](https://github.com/rico-vz)
