@@ -75,11 +75,11 @@ For as long as I can remember, I have been obsessed with all things tech, and I 
 
 ## Certifications 🏆
 
-- 💻 Bit Academy - Fullstack Webdeveloper
-- 🧩 Bit Academy - Laravel Developer
-- 🔨 Bit Academy - Object Oriented Programming
-- 🧪 Bit Academy - E2E Testing
-- 🔄 Bit Academy - Scrum
+- 💻 NexEd - Fullstack Webdeveloper
+- 🧩 NexEd - Laravel Developer
+- 🔨 NexEd - Object Oriented Programming
+- 🧪 NexEd - E2E Testing
+- 🔄 NexEd - Scrum
 - 💡 IT Specialist - JavaScript
 
 ## Github Stats 📈
