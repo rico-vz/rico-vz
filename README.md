@@ -81,6 +81,3 @@ For as long as I can remember, I have been obsessed with all things tech, and I 
 - 🧪 NexEd - E2E Testing
 - 🔄 NexEd - Scrum
 - 💡 IT Specialist - JavaScript
-
-## Github Stats 📈
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rico-vz&theme=nightfox&hide_border=true&border_radius=24&mode=weekly" alt="Prowise  GitHub streak" height="160px" />
