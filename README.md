@@ -84,5 +84,3 @@ For as long as I can remember, I have been obsessed with all things tech, and I 
 
 ## Github Stats 📈
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rico-vz&theme=nightfox&hide_border=true&border_radius=24&mode=weekly" alt="Prowise  GitHub streak" height="160px" />
-  
-[![](https://visitcount.itsvg.in/api?id=wqe&label=Profile%20Views&color=12&icon=1&pretty=false)](https://github.com/rico-vz)
