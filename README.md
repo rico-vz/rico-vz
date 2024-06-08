@@ -1,6 +1,6 @@
 ## About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="31" height="31" />
 
-My name is Rico van Zelst, a 20-year-old full-stack developer and a student at the Bit Academy.
+My name is Rico van Zelst, a 21-year-old full-stack developer and a student at the Bit Academy.
 
 Whilst being a software development student, I am also involved in a number of projects, which involve freelance web development.
 
