@@ -71,7 +71,7 @@ For as long as I can remember, I have been obsessed with all things tech, and I 
 
 ## Education 🎓
 
-- 🎓 Software Developer MBO 4, Bit Academy & Horizon College, August 2021 - Present
+- 🎓 Software Developer MBO 4, Bit Academy & Horizon College, August 2021 - July 2024
 
 ## Certifications 🏆
 
