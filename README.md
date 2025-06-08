@@ -1,6 +1,6 @@
 ## About Me
 
-Hey there! I'm Rico van Zelst, a 21-year-old Full Stack Developer who's passionate about creating websites and software. I love making things and solving problems.
+Hey there! I'm Rico van Zelst, a 22-year-old Full Stack Developer who's passionate about creating websites and software. I love making things and solving problems.
 
 I often use PHP, Laravel and JavaScript to build websites and web applications. I also have experience with Vue.js and Tailwind CSS. I'm always looking to learn new things and improve my skills. 
 I'm currently learning Go for small scripts and backend services, which has been a lot of fun. 
