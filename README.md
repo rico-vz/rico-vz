@@ -1,22 +1,46 @@
-## About Me
+### Technologies
 
-Hey there! I'm Rico van Zelst, a 22-year-old Full Stack Developer who's passionate about creating websites and software. I love making things and solving problems.
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 
-I often use PHP, Laravel and JavaScript to build websites and web applications. I also have experience with Vue.js and Tailwind CSS. I'm always looking to learn new things and improve my skills. 
-I'm currently learning Go for small scripts and backend services, which has been a lot of fun. 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+ <br>
+   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte">
 
-For as long as I can remember, I have been obsessed with all things tech, and I am looking forward to getting deep into software development for both the problem-solving and creative design aspects. Willing to assist organizations in building the best technical solutions in today's competitive market.
+</p>
 
-## Education 
+---
 
-- 🎓 Software Developer MBO 4, Horizon College, August 2021 - July 2024
-- 🎓 Software Developer, Bit Academy, August 2021 - July 2024
+<details>
+<summary><b>Experience</b></summary>
 
-## Certifications 
+* **Software Engineer** | Zenso Digital (Aug 2025 - Present)
+* **Software Engineer** | Webspacez (Jan 2024 - Jun 2024)
+* **Software Engineer** | Global Web Systems (Feb 2023 - Jul 2023)
 
-- 💻 Bit Academy - Fullstack Webdeveloper
-- 🧩 Bit Academy - Laravel Developer
-- 🔨 Bit Academy - Object Oriented Programming
-- 🧪 Bit Academy - E2E Testing
-- 🔄 Bit Academy - Scrum
-- 💡 IT Specialist - JavaScript
+</details>
+
+<details>
+<summary><b>Education</b></summary>
+
+* **Software Developer (MBO 4)** | Horizon College (2021 - 2024)
+* **Software Developer** | Bit Academy (2021 - 2024)
+
+</details>
+
+<details>
+<summary><b>Certifications</b></summary>
+
+* IT Specialist - JavaScript
+* Fullstack Webdeveloper (Bit Academy)
+* Laravel Developer (Bit Academy)
+* Object Oriented Programming (Bit Academy)
+* E2E Testing (Bit Academy)
+* Scrum (Bit Academy)
+
+</details>
